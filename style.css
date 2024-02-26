@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: underline;
+}
+
+#card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: -10px;
+}
+
+.card {
+    margin: 25px;
+    box-shadow: 4px 4px 10px 2px grey;
+    z-index: 0;
+}
+
+.card:hover {
+    z-index: 1;
+    transform: scale(1.05);
+    transition: 0.35s;
+}

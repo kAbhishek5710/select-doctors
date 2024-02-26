@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Bowen Chan",
+        "image": "./img/chan_small.jpg",
+        "speciality": "Neurosurgeon"
+    },
+    {
+        "id": 2,
+        "name": "Dr. Michael Lewis",
+        "image": "./img/Michael_Lewis_small.jpg",
+        "speciality": "Cardiologist"
+    },
+    {
+        "id": 3,
+        "name": "Dr. Sharon Hind",
+        "image": "./img/sharonwelch_small.jpg",
+        "speciality": "Homeopathy"
+    },
+    {
+        "id": 4,
+        "name": "Dr. Sheeja Mathai",
+        "image": "/img/drmathai_small.jpg",
+        "speciality": "Cancer Specialist"
+    },
+    {
+        "id": 5,
+        "name": "Dr. Preston Tran",
+        "image": "/img/TranTriet_small.jpg",
+        "speciality": "Gynacologist"
+    },
+    {
+        "id": 6,
+        "name": "Dr. Bowen Chan",
+        "image": "/img/chan_small.jpg",
+        "speciality": "Neurosurgeon"
+    },
+    {
+        "id": 7,
+        "name": "Dr. Michael Lewis",
+        "image": "/img/Michael_Lewis_small.jpg",
+        "speciality": "Cardiologist"
+    },
+    {
+        "id": 8,
+        "name": "Dr. Sharon Hind",
+        "image": "/img/sharonwelch_small.jpg",
+        "speciality": "Homeopathy"
+    },
+    {
+        "id": 9,
+        "name": "Dr. Sheeja Mathai",
+        "image": "/img/drmathai_small.jpg",
+        "speciality": "Cancer Specialist"
+    },
+    {
+        "id": 10,
+        "name": "Dr. Preston Tran",
+        "image": "/img/TranTriet_small.jpg",
+        "speciality": "Gynacologist"
+    },
+    {
+        "id": 11,
+        "name": "Dr. Bowen Chan",
+        "image": "/img/chan_small.jpg",
+        "speciality": "Neurosurgeon"
+    },
+    {
+        "id": 12,
+        "name": "Dr. Michael Lewis",
+        "image": "/img/Michael_Lewis_small.jpg",
+        "speciality": "Cardiologist"
+    },
+    {
+        "id": 13,
+        "name": "Dr. Sharon Hind",
+        "image": "/img/sharonwelch_small.jpg",
+        "speciality": "Homeopathy"
+    },
+    {
+        "id": 14,
+        "name": "Dr. Sheeja Mathai",
+        "image": "/img/drmathai_small.jpg",
+        "speciality": "Cancer Specialist"
+    },
+    {
+        "id": 15,
+        "name": "Dr. Preston Tran",
+        "image": "/img/TranTriet_small.jpg",
+        "speciality": "Gynacologist"
+    },
+    {
+        "id": 16,
+        "name": "Dr. Bowen Chan",
+        "image": "/img/chan_small.jpg",
+        "speciality": "Neurosurgeon"
+    },
+    {
+        "id": 17,
+        "name": "Dr. Michael Lewis",
+        "image": "img/Michael_Lewis_small.jpg",
+        "speciality": "Cardiologist"
+    },
+    {
+        "id": 18,
+        "name": "Dr. Sharon Hind",
+        "image": "/img/sharonwelch_small.jpg",
+        "speciality": "Homeopathy"
+    },
+    {
+        "id": 19,
+        "name": "Dr. Sheeja Mathai",
+        "image": "/img/drmathai_small.jpg",
+        "speciality": "Cancer Specialist"
+    },
+    {
+        "id": 20,
+        "name": "Dr. Preston Tran",
+        "image": "/img/TranTriet_small.jpg",
+        "speciality": "Gynacologist"
+    },
+    {
+        "id": 21,
+        "name": "Dr. Bowen Chan",
+        "image": "/img/chan_small.jpg",
+        "speciality": "Neurosurgeon"
+    },
+    {
+        "id": 22,
+        "name": "Dr. Michael Lewis",
+        "image": "/img/Michael_Lewis_small.jpg",
+        "speciality": "Cardiologist"
+    },
+    {
+        "id": 23,
+        "name": "Dr. Sharon Hind",
+        "image": "/img/sharonwelch_small.jpg",
+        "speciality": "Homeopathy"
+    },
+    {
+        "id": 24,
+        "name": "Dr. Sheeja Mathai",
+        "image": "/img/drmathai_small.jpg",
+        "speciality": "Cancer Specialist"
+    },
+    {
+        "id": 25,
+        "name": "Dr. Preston Tran",
+        "image": "/img/TranTriet_small.jpg",
+        "speciality": "Gynacologist"
+    }
+]
